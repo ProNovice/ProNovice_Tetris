@@ -1,0 +1,11 @@
+C:\Users\Minseok\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Minseok\Desktop\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Minseok\Desktop\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Minseok\Desktop\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Minseok\Desktop\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Minseok\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Minseok\Desktop\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Minseok\Desktop\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Minseok\Desktop\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Minseok\Desktop\Tetris\Tetris\obj\Debug\Tetris.Tetris_Main.resources
+C:\Users\Minseok\Desktop\Tetris\Tetris\obj\Debug\Tetris.Info.resources
